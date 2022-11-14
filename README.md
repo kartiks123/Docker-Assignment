@@ -18,7 +18,7 @@ In This Assignment we have two containers as follows :
 - Verify that the file is received properly at the clientside by verifying the checksum.
 - The client application again can be wriiten in any language that you are comfortable with, but the container should include all the necessary packages. Choose your base image wisely and install only necessary packages.
 
-To view the complete question, [click here](https://github.com/kartiks123/Docker-Assignment-1/blob/main/Assignment.docx).
+To view the complete question, [click here](https://github.com/kartiks123/Docker-Assignment/blob/main/Assignment.docx).
 
 
 ## How to Run
